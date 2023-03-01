@@ -1,0 +1,23 @@
+{
+  "name": "vanilla_nodejs_rest_api",
+  "version": "1.0.0",
+  "description": "An example of a backbone Rest API written in Node.js with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgtjukker/vanilla_nodejs_rest_api.git"
+  },
+  "keywords": [],
+  "author": "Joakim Månsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgtjukker/vanilla_nodejs_rest_api/issues"
+  },
+  "homepage": "https://github.com/sgtjukker/vanilla_nodejs_rest_api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
